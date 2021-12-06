@@ -13,6 +13,12 @@ https://www.youtube.com/watch?v=R2RQm_Bu81I&t=5991s
 
 ## Screenshots
 
+![Flame](https://raw.githubusercontent.com/proceduralit/UE4-SixPointRelighting/main/ReadME_Data/Flame.png)
+
+![LFU](https://raw.githubusercontent.com/proceduralit/UE4-SixPointRelighting/main/ReadME_Data/LeftFrontUp.png)
+
+![RBD](https://raw.githubusercontent.com/proceduralit/UE4-SixPointRelighting/main/ReadME_Data/RightBackDown.png)
+
 ![Material](https://raw.githubusercontent.com/proceduralit/UE4-SixPointRelighting/main/ReadME_Data/Material.png)
 
 
